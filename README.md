@@ -26,12 +26,12 @@ So here is the new setup idea:
 - **In any computer, plug a USB bluetooth dongle. A simple Python script will then communicate with both the robot AND Printrbot's server.** At first I thought of using a Raspberry Pi, but this is cheaper and will work as well! :)
 - **At Printrbot's server, install a simple script. Its mission is to present users with a simple controller interface, and queue them for "time slots".** This way you can easily send commands to the robot from the server.
 
-**The cost is still very low:** Arduino board in the robot (~15$) + Cheap Bluetooth Module (~$5) + Bluetooth USB dongle (~$10, free if you already have one!)
-And the robot itself could use *(depending on the design you finally choose)* three or four servos + a Li-Po battery (with 5V regulator).
+**The cost is still very low:** Arduino board in the robot (~15$) + Cheap Bluetooth Module (~$5) + Bluetooth USB dongle (~$10, free if you already have one!)  
+And the robot itself could use *(depending on the design you finally choose)* three or four servos + a Li-Po battery (with 5V regulator).  
 
-**Again, please let me know your thoughts! It would be nice to know other people designs and ideas, these way we could all collaborate since it is such an interdisciplinary project.**
+**Again, please let me know your thoughts! It would be nice to know other people designs and ideas, these way we could all collaborate since it is such an interdisciplinary project.**  
 
-Video  
+Video (5 June 2013)  
 --
 For this test, I fixed my Android Phone to the back of the robot, and added a heavy battery on the other side as a weight to stabilize the robot.
 The additional weight plus the thin wire that I have used make the robot quite unstable (it is the first test, what did you expect? ;)  
@@ -57,7 +57,7 @@ If Printrbot likes my idea, I will send them the electronics assembled so they d
 
 ![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/master/Electronics/DTMF-Decoder/ManufactureProcess/2013-06-05%2017.26.01.jpg)
 
-![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/master/Electronics/DTMF-Decoder/ManufactureProcess/2013-06-05%2017.26.01.jpg)
+![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/master/Electronics/DTMF-Decoder/ManufactureProcess/2013-06-05%2018.31.30.jpg)
 
 ![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/master/Electronics/DTMF-Decoder/ManufactureProcess/2013-06-05%2019.35.06.jpg)
 
