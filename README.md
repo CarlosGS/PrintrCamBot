@@ -33,8 +33,9 @@ The dial-up tones coming out from the speaker of the smartphone -I insist, this 
 
 Details  
 --
-I have printed all the parts using my Printrbot Jr, which I bought last summer. **This printer feels very lonely and would love to have a Printrbot Simple as a friend :)**
+I have printed all the parts using my Printrbot Jr, which I bought last summer. **This printer feels very lonely and would love to have a Printrbot Simple as a friend :)**  
 ![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/master/Media/Previous/2013-06-03 19.48.16.jpg)
+The parts have been designed with OpenScad and are parametric, don't forget to add the real diameter of the Dropcam before printing!  
 
 For the electronics, I have developed a DTMF decoder board and manufactured it in **Cyclone PCB Factory** (<https://github.com/carlosgs/Cyclone-PCB-Factory>). **It has been the first circuit manufactured with this new open-hardware machine! :P**  
 If Printrbot likes my idea, I will send them the electronics assembled so they don't need to worry about it.
