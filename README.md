@@ -16,7 +16,7 @@ Basically, my approach is based on two different ideas:
 - **Since the Dropcam has two-way audio incorporated, why not use that to send DTMF audio tones to control the robot? (more details below)**  
 - **A "flying fox" robot could easily travel around Printrbot's warehouse without disturbing their workspace**  
 
-**Dear Brook (@Printrbot), please let me know your thoughts regarding these concepts. I would love to see this**  
+**Dear Brook (@Printrbot), please let me know your thoughts regarding these concepts. I would love to see this robot working at Printrbot HQ**  
 
 Video  
 --
