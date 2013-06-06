@@ -16,14 +16,18 @@ Basically, my approach is based on two different ideas:
 - **Since the Dropcam has two-way audio incorporated, why not use that to send DTMF audio tones to control the robot? (more details below)**  
 - **A "flying fox" robot could easily travel around Printrbot's warehouse without disturbing their workspace**  
 
-**Dear Brook (@Printrbot), please let me know your thoughts regarding these concepts. I would love to see this robot working at Printrbot HQ**  
+**Dear Brook (@Printrbot), please let me know your thoughts regarding these concepts. I know the DTMF solution may sound too simple, but trust me - it works. I have kept the costs as low as possible. Finally, I would love to see this robot moving around Printrbot's HQ**  
 
 Video  
 --
 For this test, I fixed my Android Phone to the back of the robot, and added a heavy battery on the other side as a weight to stabilize the robot.
-The additional weight plus the thin wire that I have used make the robot quite unstable (it is the first test, what did you expect? ;)
+The additional weight plus the thin wire that I have used make the robot quite unstable (it is the first test, what did you expect? ;)  
+
+I have then stabilished a call via Skype (for the DropCam, this will be done pressing the "Talk" button, and then using a DTMF generator on any smartphone, holding it next to the mic).
 
 [![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/sOZ26wGzT1U)
+
+**Unfortunately, I don't have a Dropcam to do proper tests. But as it is shown in the video, this robot can control a Dropcam via internet using its speaker.**
 
 Details  
 --
