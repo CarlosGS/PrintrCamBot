@@ -11,6 +11,8 @@ My name is Carlos García Saura, and I'm a student from Spain. **I am a true fan
 
 ![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/master/Media/Challenge/Tweet.png)
 
+I would love to get my hands on a Printrbot Simple, maybe this could be my chance! :P  
+
 Basically, my approach is based on two different ideas:  
 
 - ~~Since the Dropcam has two-way audio incorporated, why not use that to send DTMF audio tones to control the robot? (more details below)~~  
