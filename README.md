@@ -73,6 +73,16 @@ To-Do list
 - Add second "travel wheel" to improve stability
 - Wait for Printrbot's feedback! :)
 
+Credit  
+--
+This project has been possible thanks to the following work:
+- MiniSkyBot Wheel by **Obijuan** (<https://github.com/Obijuan/Miniskybot>)  
+- Dropcam Tripod Mount by **Reuben** (<http://www.thingiverse.com/thing:39078>)  
+- Yazzo Servo Side Shelf Mount by **WilliamAAdams** (<http://www.thingiverse.com/thing:6668>)  
+- Skype-controlled robot using smartphone and DTMF tones by **Janisalnis** (<http://www.instructables.com/id/Skype-controlled-robot-using-smartphone-and-DTMF-t/>)  
+- Electret mic interfacing by **Chrille2k** and **BillHo** (<http://forum.arduino.cc/index.php/topic,19052.0.html>)  
+- Kicad Arduino nano (YJ_arduino: component and module) by **Yann Jautard**  
+
 License  
 --
 License: **Attribution - Share Alike - Creative Commons (<http://creativecommons.org/licenses/by-sa/3.0/>)**  
