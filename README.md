@@ -23,7 +23,7 @@ Basically, my approach is based on two different ideas:
 Brook has told me that Dropcam's speaker can only be controlled by the owner (D'Oh!).  
 So here is the new setup idea:  
 - The robot is kept really simple: **Replace the DTMF board with a cheap Bluetooth module.** I can make a compact electronics board for this.
-- **In any computer, plug a USB bluetooth dongle. A simple Python script will then communicate with both the robot AND Printrbot's server.**
+- **In any computer, plug a USB bluetooth dongle. A simple Python script will then communicate with both the robot AND Printrbot's server.** At first I thought of using a Raspberry Pi, but this is cheaper and will work as well! :)
 - **At Printrbot's server, install a simple script. Its mission is to present users with a simple controller interface, and queue them for "time slots".** This way you can easily send commands to the robot from the server.
 
 **The cost is still very low:** Arduino board in the robot (~15$) + Cheap Bluetooth Module (~$5) + Bluetooth USB dongle (~$10, free if you already have one!)
