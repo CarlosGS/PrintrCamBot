@@ -31,18 +31,18 @@ I have then stabilished a call via Skype (for the DropCam, this will be done pre
 
 Details  
 --
-I have printed all the parts using my Printrbot Jr, which I bought last summer. **This printer feels very lonely and would like to have a Printrbot Simple as a friend :)**
+I have printed all the parts using my Printrbot Jr, which I bought last summer. **This printer feels very lonely and would love to have a Printrbot Simple as a friend :)**
 ![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/master/Media/Previous/2013-06-03 19.48.16.jpg)
 
 For the electronics, I have developed a DTMF decoder board and manufactured it in **Cyclone PCB Factory** (<https://github.com/carlosgs/Cyclone-PCB-Factory>). **It has been the first circuit manufactured with this new open-hardware machine! :P**  
 
-![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/Electronics/DTMF-Decoder/ManufactureProcess/2013-06-04%2021.59.21.jpg)
+![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/master/Electronics/DTMF-Decoder/ManufactureProcess/2013-06-04%2021.59.21.jpg)
 
-![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/Electronics/DTMF-Decoder/ManufactureProcess/2013-06-05%2017.26.01.jpg)
+![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/master/Electronics/DTMF-Decoder/ManufactureProcess/2013-06-05%2017.26.01.jpg)
 
-![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/Electronics/DTMF-Decoder/ManufactureProcess/2013-06-05%2017.26.01.jpg)
+![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/master/Electronics/DTMF-Decoder/ManufactureProcess/2013-06-05%2017.26.01.jpg)
 
-![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/Electronics/DTMF-Decoder/ManufactureProcess/2013-06-05%2019.35.06.jpg)
+![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/master/Electronics/DTMF-Decoder/ManufactureProcess/2013-06-05%2019.35.06.jpg)
 
 To-Do list
 --
