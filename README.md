@@ -13,10 +13,23 @@ My name is Carlos García Saura, and I'm a student from Spain. **I am a true fan
 
 Basically, my approach is based on two different ideas:  
 
-- **Since the Dropcam has two-way audio incorporated, why not use that to send DTMF audio tones to control the robot? (more details below)**  
+- ~~Since the Dropcam has two-way audio incorporated, why not use that to send DTMF audio tones to control the robot? (more details below)~~  
 - **A "flying fox" robot could easily travel around Printrbot's warehouse without disturbing their workspace** You would just need to place a tense wire from one side to the other of the place to monitor.  
 
-**Dear Brook (@Printrbot), please let me know your thoughts regarding these concepts. I know the DTMF solution may sound too simple, but trust me - it works. I have kept the costs as low as possible. Finally, I would love to see this robot moving around Printrbot's HQ**  
+**I would love to see this robot moving around Printrbot's HQ**  
+
+(6 June 2013) DTMF discarded, new approach!  
+--
+Brook has told me that Dropcam's speaker can only be controlled by the owner (D'Oh!).  
+So here is the new setup idea:  
+- The robot is kept really simple: **Replace the DTMF board with a cheap Bluetooth module.** I can make a compact electronics board for this.
+- **In any computer, plug a USB bluetooth dongle. A simple Python script will then communicate with both the robot AND Printrbot's server.**
+- **At Printrbot's server, install a simple script. Its mission is to present users with a simple controller interface, and queue them for "time slots".** This way you can easily send commands to the robot from the server.
+
+**The cost is still very low:** Arduino board in the robot (~15$) + Cheap Bluetooth Module (~$5) + Bluetooth USB dongle (~$10, free if you already have one!)
+And the robot itself could use *(depending on the design you finally choose)* three or four servos + a Li-Po battery (with 5V regulator).
+
+**Again, please let me know your thoughts! It would be nice to know other people designs and ideas, these way we could all collaborate since it is such an interdisciplinary project.**
 
 Video  
 --
