@@ -27,7 +27,7 @@ I have then stabilished a call via Skype (for the DropCam, this will be done pre
 
 The dial-up tones coming out from the speaker of the smartphone -I insist, this could be directly the Dropcam- are then interpreted by the DTMF decoder + Arduino Nano to move the servos.
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/sOZ26wGzT1U)
+**VIDEO: <http://www.youtube.com/watch?v=sOZ26wGzT1U>**
 
 **Unfortunately, I don't have a Dropcam to do proper tests. But as it is shown in the video, this robot can control a Dropcam via internet using its speaker.**
 
