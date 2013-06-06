@@ -48,6 +48,10 @@ If Printrbot likes my idea, I will send them the electronics assembled so they d
 
 ![ScreenShot](https://github.com/carlosgs/PrintrCamBot/raw/master/Electronics/DTMF-Decoder/ManufactureProcess/2013-06-05%2019.35.06.jpg)
 
+Regarding Dropcam's power supply
+--
+The tray of the robot has been designed to carry a medium-sized Li-Po battery, and also a 5V regulator. This would supply the 2A required by the Dropcam, and the few milliamps required by the rest of the robot.
+
 To-Do list
 --
 - Add counter-balance weight for the main frame
