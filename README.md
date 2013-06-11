@@ -31,7 +31,25 @@ So here is the new setup idea:
 **The cost is still very low:** Arduino board in the robot (~15$) + Cheap Bluetooth Module (~$5) + Bluetooth USB dongle (~$10, free if you already have one!)  
 And the robot itself could use *(depending on the design you finally choose)* three or four servos + a Li-Po battery (with 5V regulator).  
 
-**Again, please let me know your thoughts! It would be nice to know other people designs and ideas, these way we could all collaborate since it is such an interdisciplinary project.**  
+**Links of interest:**  
+- Python and Bluetooth <http://homepages.ius.edu/RWISMAN/C490/html/PythonandBluetooth.htm>  
+- Bluetooth communication between Arduino and PyBluez <http://stackoverflow.com/questions/15486570/bluetooth-communication-between-arduino-and-pybluez>  
+- Python interaction with website <http://ubuntuforums.org/showthread.php?t=624944>  
+- Web interaction using Python <http://www.hackthissite.org/articles/read/1053/>  
+- How to use Python in the web <http://docs.python.org/3.1/howto/webservers.html>  
+- Python application communicating with a web server <http://stackoverflow.com/questions/7975031/python-application-communicating-with-a-web-server-ideas>  
+- Internet Controlled Robot with User Queue System <http://forums.parallax.com/showthread.php/139284-Live-Internet-Controlled-Robot-with-User-Queue-System>  
+
+(11 June 2013) Update: Pause!  
+--
+Sadly, it won't be possible for me to develop the web interface (at least soon) :S  
+I'm more of a hardware guy, so my first Web UI attempts have been a bit of a disaster! Not to mention that the code needs to be robust against hacker attacks: I have very little experience dealing with those kind of issues.  
+
+Also, there is too many stuff for me to keep up with before I leave to the US next week (will be in California for two months).  
+It would be great to have a Printrbot Simple that I can leave at my cousins place, so please let us know if we could have some discount! :)  
+
+Anyway, it has been a honor to collaborate with this design and am willing to help with electronics/hardware :) Can't wait to control your Dropcam!  
+Thank you Printrbot for promoting Open Source, and good luck to the rest of participants!  
 
 Video (5 June 2013)  
 --
